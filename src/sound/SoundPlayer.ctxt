@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=void\ playSound(java.lang.String)
+comment0.text=\r\n\ Allows\ the\ system\ to\ play\ sounds.\r\n\ Sound\ to\ play\ is\ dynamic\ as\ long\ as\ the\ sound\ exists\ in\ the\ snd/\ folder\ as\ a\ .WAV\ and\ you\ pass\ the\ id\ as\ the\ file\ name\ (excluding\ extension)\r\n\ Example\:\ soundPlayer.playSound("fileName");\r\n\ @param\ id\ \ \ Identifier\ for\ sound\ to\ be\ played.\r\n
+numComments=1
